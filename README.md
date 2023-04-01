@@ -1,8 +1,8 @@
 ![Header](https://github.com/zproggit/zproggit/blob/master/assets/logo.jpg)
  
 # Плахов Андрей 
-### Тестировщик-cтажёр, junior qa
-  <br />
+## Тестировщик-cтажёр, junior qa
+
 [![Flutter](https://img.shields.io/badge/Telegram-45B5EF?style=plastic&logo=Telegram&)](https://t.me/zuprog)
 
 Здравствуйте, меня зовут Плахов Андрей. У
