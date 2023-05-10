@@ -9,7 +9,9 @@
 Я начинающий qa-специалист. Закончил курс «Тестирование web-приложений» от образовательной платформы Skillbox.
 
 ### Мое резюме
-[Резюме](https://drive.google.com/file/d/1kkZkH8qRCn8I22I3Kb7zTDUREXUVXIdK/view?usp=sharing)
+[Резюме](https://drive.google.com/file/d/1kkZkH8qRCn8I22I3Kb7zTDUREXUVXIdK/view?usp=sharing)  
+[Сертификат Skillbox](https://drive.google.com/file/d/1FqPYwT4A_pPZQiBbA2m3U5GdpyVGYB1Y/view?usp=share_link)
+
 
 ### Навыки
 ![Flutter](https://img.shields.io/badge/HTML&#44;&#32;CSS-45B5EF?style=flat&logo=html5&logoColor=FFFFFF)
